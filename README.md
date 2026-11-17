@@ -26,7 +26,7 @@ from raw data to the final report.
 
 ### 🎓 Education & credentials
 
-| | |
+| Credential | Details |
 |---|---|
 | **M.Sc. in Statistics** | Federal University of Pernambuco (UFPE) · 2022<br/>Dissertation: [*Amostragem inversa de Bernoulli e aplicações*](https://repositorio.ufpe.br/handle/123456789/45494) (Inverse Bernoulli sampling and applications) |
 | **B.Sc. in Statistics** | Federal University of Campina Grande (UFCG) · 2019 |
