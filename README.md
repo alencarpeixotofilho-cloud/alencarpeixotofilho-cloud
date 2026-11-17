@@ -14,7 +14,7 @@
 
 ### 👋 About me
 
-I am a statistician working at the intersection of **data science and educational assessment**.
+I am a **registered statistician (M.Sc.)** working at the intersection of **data science and educational assessment**.
 My work turns raw exam and survey data into evidence that faculty and academic leaders can act on:
 how good are our test items, where are learners struggling, and is our assessment program aligned
 with the competencies it is supposed to measure?
@@ -23,6 +23,23 @@ Day to day, I design and analyze **high-stakes mock exams in medical education**
 **item-quality and learner-progress analytics**, support **item-writing and peer-review workflows**,
 and run **institutional self-evaluation surveys** — always with automated, reproducible pipelines
 from raw data to the final report.
+
+### 🎓 Education & credentials
+
+| | |
+|---|---|
+| **M.Sc. in Statistics** | Federal University of Pernambuco (UFPE) · 2022<br/>Dissertation: [*Amostragem inversa de Bernoulli e aplicações*](https://repositorio.ufpe.br/handle/123456789/45494) (Inverse Bernoulli sampling and applications) |
+| **B.Sc. in Statistics** | Federal University of Campina Grande (UFCG) · 2019 |
+| **Registered Statistician** | Regional Council of Statistics, 5th Region (CONRE-5) · Reg. nº 11266 |
+| **Certification** | Power BI Express — Simplifica Treinamentos · 2023 |
+
+### 💼 Teaching
+
+**Lecturer in Statistics and Quantitative Methods** — Faculdade Paraíso Araripina and
+Autarquia Educacional do Araripe (AEDA): statistics, biostatistics, agrometeorology and
+mathematics for undergraduate programs, alongside assessment and institutional research work.
+
+📄 Full academic CV: [Lattes](http://lattes.cnpq.br/1917958544127937)
 
 ### 🎯 What I do
 
