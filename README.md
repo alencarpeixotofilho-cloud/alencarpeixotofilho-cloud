@@ -39,7 +39,9 @@ from raw data to the final report.
 Autarquia Educacional do Araripe (AEDA): statistics, biostatistics, agrometeorology and
 mathematics for undergraduate programs, alongside assessment and institutional research work.
 
-📄 Full academic CV: [Lattes](http://lattes.cnpq.br/1917958544127937)
+📄 Academic profiles:
+[![Lattes](https://img.shields.io/badge/CV-Lattes-0B5394?style=flat-square)](http://lattes.cnpq.br/1917958544127937)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3711--037X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3711-037X)
 
 ### 🎯 What I do
 
