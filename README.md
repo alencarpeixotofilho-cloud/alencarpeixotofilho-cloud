@@ -65,7 +65,7 @@ mathematics for undergraduate programs, alongside assessment and institutional r
 | 📝 **[LaTeX Report Templates](https://github.com/alencarpeixotofilho-cloud/latex-report-templates)** | Clean LaTeX templates for technical assessment reports, technical opinions and Beamer slides, with a configurable visual identity. | LaTeX |
 | ✍️ **[Item-Writing Guidelines & Review Checklist](https://github.com/alencarpeixotofilho-cloud/item-writing-guidelines)** | Evidence-based guidelines and a review checklist for writing high-quality multiple-choice items, plus an automated flaw checker. | Python |
 
-> 🚧 Projects are being progressively released as they are rebuilt on synthetic data.
+> Every project ships with documentation, synthetic example data and automated tests — clone it and run it in minutes.
 
 ### 🛠️ Tech stack
 
